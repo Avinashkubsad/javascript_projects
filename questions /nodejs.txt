@@ -1,0 +1,2 @@
+1. what is cors?
+2. what is express.js how it is usefull
